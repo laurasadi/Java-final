@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Final</string>
+    <string name="app_title">Rick and Morty Characters Search </string>
+
+    <string name="login_username">Username</string>
+    <string name="login_password">Password</string>
+    <string name="login_checkbox">Remember me</string>
+    <string name="login_login_btn">Login</string>
+    <string name="login_register_btn">Register</string>
+    <string name="login_invalid_username">Wrong Username Or/And Password</string>
+
+    <string name="search_loading_data">Please wait for data to be displayed</string>
+    <string name="search_error_reading_data">Could not read data from API. For more information: </string>
+    <string name="search_no_results">No search results found for query: </string>
+    <string name="search_found_entries_from_api">Found total number of entries: </string>
+
+    <string name="new_entry_last_update">Last update:</string>
+    <string name="new_entry_date_1">2020-12-16T05:28:04+00:00</string>
+    <string name="new_entry_date_2">2020-12-15T05:28:04+00:00</string>
+    <string name="new_entry_date_3">2020-12-14T05:28:04+00:00</string>
+    <string name="new_entry_date_4">2020-12-13T05:28:04+00:00</string>
+    <string name="new_entry_status">Status:</string>
+    <string name="new_entry_status_alive">Alive</string>
+    <string name="new_entry_status_dead">Dead</string>
+    <string name="new_entry_status_unknown">Unknown</string>
+
+    <string name="new_entry_gender">Gender:</string>
+    <string name="new_entry_gender_male">Male</string>
+    <string name="new_entry_gender_female">Female</string>
+    <string name="new_entry_id">id:</string>
+    <string name="new_entry_display_btn">Display selected</string>
+    <string name="new_entry_invalid_id">Wrong idnumber</string>
+
+</resources>
